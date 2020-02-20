@@ -1,0 +1,13 @@
+Multiclass classification:
+https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
+https://towardsdatascience.com/machine-learning-multiclass-classification-with-imbalanced-data-set-29f6a177c1a
+https://github.com/javaidnabi31/Multi-class-with-imbalanced-dataset-classification/blob/master/20-news-group-classification.ipynb
+
+Already solved (only good and bad):
+https://www.kaggle.com/eugen1701/predicting-sentiment-and-helpfulness
+https://github.com/rahulanand1103/Sentiment-Analysis-of-Amazon-Fine-Food-Reviews
+
+Explanatory analysis:
+https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/
+https://github.com/hlamba28/Amazon-Food-Review
+
